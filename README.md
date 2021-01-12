@@ -1,4 +1,6 @@
-Gerador de números primeiro App em estudo em Flutter
+Gerador de números 
+
+Primeiro App em estudo Flutter.
 
 Fontes: https://www.devmedia.com.br
 
